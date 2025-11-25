@@ -3,7 +3,7 @@
   LDprg
 </h1>
 
-![LDprg's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ldprg&show_icons=true&count_private=true)
+<!--![LDprg's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ldprg&show_icons=true&count_private=true)-->
 
 Favourite languages:
   - Rust
