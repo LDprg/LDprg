@@ -9,3 +9,5 @@ Favourite languages:
   - Rust
   - Zig
   - C/C++
+
+For my new/old projects checkout https://codeberg.org/LDprg since I will move my projects to codberg instead of github.
