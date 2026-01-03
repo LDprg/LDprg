@@ -18,3 +18,4 @@ Since my gh profile is quite old now I most likely won't move all of my old code
 All my new ones will be found there and old ones I activly develop from now on, each repo get a title that indicates it got moved and will be archived.
 
 # If you care about OpenSource move away from Github too!
+#### This account is primary for open source contributions to other projects (which are on github) and an archive of very old projects.
